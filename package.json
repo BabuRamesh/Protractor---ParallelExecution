@@ -1,0 +1,32 @@
+{
+  "name": "Praveen",
+  "version": "0.0.1",
+  "description": "This is my e2e Test framework on Protractor ",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-reporters": "~0.4.0"
+  },
+  "devDependencies": {
+    "Protractor": "^0.21.0",
+    "grunt": "^0.4.4",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-protractor-runner": "^0.2.4",
+    "grunt-shell-spawn": "^0.3.0",
+    "protractor-html-screenshot-reporter": "0.0.5",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-open": "^0.2.3",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-clean": "^0.4.0",
+    "grunt-concurrent": "^0.5.0",
+    "protractor-tester": "0.0.7",
+    "protractor-screenshot-reporter": "0.0.5"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Praveen",
+  "license": "GNU"
+}

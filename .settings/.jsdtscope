@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="jasmine-reporters/test/|jasmine-reporters/src/|jasmine-reporters/ext/" kind="src" path="Config"/>
+	<classpathentry kind="src" path="Config/jasmine-reporters/ext"/>
+	<classpathentry kind="src" path="Config/jasmine-reporters/src"/>
+	<classpathentry kind="src" path="Config/jasmine-reporters/test"/>
+	<classpathentry kind="src" path="GlobalConstants"/>
+	<classpathentry kind="src" path="Pages"/>
+	<classpathentry kind="src" path="Specs"/>
+	<classpathentry kind="src" path="UILocators"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
